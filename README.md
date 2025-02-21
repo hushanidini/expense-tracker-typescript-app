@@ -48,6 +48,10 @@ export default tseslint.config({
   },
 })
 ```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 ![image](https://github.com/user-attachments/assets/0cfe0025-3fa3-4c72-a9b3-86f02765ffe8)
 ![image](https://github.com/user-attachments/assets/af1d3d7d-cea5-4a58-9928-554c60cacca0)
 ![image](https://github.com/user-attachments/assets/08808bea-5cfb-4ee0-86ff-296d0074bca7)
