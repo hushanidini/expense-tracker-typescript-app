@@ -51,8 +51,8 @@ export default tseslint.config({
 ![image](https://github.com/user-attachments/assets/0cfe0025-3fa3-4c72-a9b3-86f02765ffe8)
 ![image](https://github.com/user-attachments/assets/af1d3d7d-cea5-4a58-9928-554c60cacca0)
 ![image](https://github.com/user-attachments/assets/08808bea-5cfb-4ee0-86ff-296d0074bca7)
-![image](https://github.com/user-attachments/assets/855f8280-4387-403e-a5aa-dd6e36c2c744)
-![image](https://github.com/user-attachments/assets/f24d0857-c4ba-446b-a90a-5478f1fc850b)
+![image](https://github.com/user-attachments/assets/f7f88c64-59ab-40fe-b4d3-e63e45de6d07)
+![image](https://github.com/user-attachments/assets/850ec710-1a54-470a-8ac3-9affe8e88899)
 
 
 
