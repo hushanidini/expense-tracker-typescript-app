@@ -1,0 +1,15 @@
+
+.offline-indicator {
+    background-color: oklch(0.637 0.237 25.331);
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .sync-indicator {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
